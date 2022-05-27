@@ -27,12 +27,12 @@ public class Main {
         }
 
         //Para el bucle Do While, deberás crear la misma estructura que en el While, pero solo se debe ejecutar una vez.
-        var numeroDoWhile = 0;
+        var numeroDoWhile = 3;
 
         do{
             numeroDoWhile++;
             System.out.println(numeroDoWhile);
-        }while(numeroDoWhile < 1);
+        }while(numeroDoWhile < 3);
 
         /*
         Para el bucle For, crea una variable numeroFor, esta variable tendrá como valor 0 y
