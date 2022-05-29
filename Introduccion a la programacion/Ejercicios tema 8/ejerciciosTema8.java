@@ -13,7 +13,7 @@ public class ejerciciosTema8 {
 
     persona.setEdad(19);
     persona.setNombre("Natanael");
-    persona.setTelefono(0323);
+    persona.setTelefono(412);
 
     System.out.println(persona.getEdad());
     System.out.println(persona.getNombre());
